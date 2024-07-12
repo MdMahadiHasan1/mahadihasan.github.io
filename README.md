@@ -4,8 +4,4 @@ Technical Skills: Python, SQL, AWS, Snowflake, MATLAB
 
 Education
 
-Ph.D., Physics | The University of Texas at Dallas (May 2022)
-
-M.S., Physics | The University of Texas at Dallas (December 2019)
-
-B.S., Physics | The University of Texas at Dallas (May 2017)
+B.S., Computer Science | Asian University of Bangladesh (January 2023)
